@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @manalrhazzani
+- 👋 Hi, I’m manal rhazzani
 - 👀 I’m interested in technology, design
 - 🌱 I’m currently learning web development and graphic design
 - 💞️ I’m looking to collaborate on open-source projects and creative design ventures
